@@ -1,4 +1,5 @@
 # OpenPlanetaryData
+☿ ♀ ♂ ♄ 
 
 # bg: Открити планетни данни
 Въз основа на публикации на Международния астрономически съюз
@@ -15,7 +16,7 @@ Basado en publicaciones de la Unión Astronómica Internacional
 # fr: Données planétaires ouvertes
 D'après des publications de l'Union astronomique internationale
 
-# hi ग्रहीय डेटा खोलें
+# hi: ग्रहीय डेटा खोलें
 अंतर्राष्ट्रीय खगोलीय संघ के प्रकाशनों के आधार पर
 
 # it: Apri dati planetari
