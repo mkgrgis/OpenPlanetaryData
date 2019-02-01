@@ -1,0 +1,843 @@
+	{
+   "AL":{
+	  "singular":{
+		 "la":"Albedo",
+		 "ru":"Альбедо"
+	  },
+	  "plural":{
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Geographic area distinguished by amount of reflected light",
+		 "ru":""
+	  }
+   },
+   "AR":{
+	  "singular":{
+		 "la":"Arcus",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"arcūs",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Arc-shaped feature",
+		 "ru":""
+	  }
+   },
+   "AS":{
+	  "singular":{
+		 "la":"Astrum",
+		 "ru":"Звезда"
+	  },
+	  "plural":{
+		 "la":"astra",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Radial-patterned features on Venus",
+		 "ru":""
+	  }
+   },
+   "CA":{
+	  "singular":{
+		 "la":"Catena",
+		 "ru":"Цепочка",
+		 "en":"Crater chain",
+		 "bg":"кратерна"
+	  },
+	  "plural":{
+		 "la":"catenae",
+		 "ru":"Цепочки"
+	  },
+	  "text":{
+		 "en":"Chain of craters",
+		 "ru":"Цепочка кратеров",
+		 "bg":"Малка верига или линия от кратери"
+	  }
+   },
+   "CB":{
+	  "singular":{
+		 "la":"Cavus",
+		 "ru":"Котловина",
+		 "en":"Hollow",
+		 "bg":"котловина"
+	  },
+	  "plural":{
+		 "la":"cavi",
+		 "ru":"Котловины"
+	  },
+	  "text":{
+		 "en":"Hollows, irregular steep-sided depressions usually in arrays or clusters",
+		 "ru":"Крутосклонное понижение (депрессия) неправильной формы",
+		 "bg":"Депресия със стръмни склонове и неправилна в хоризонтален план форма. Обикновено са разположени на групи (в полярните области)"
+	  }
+   },
+   "CH":{
+	  "singular":{
+		 "la":"Chaos",
+		 "ru":"Хаос",
+		 "en":"Chaotic terrain",
+		 "bg":"хаос, хаотичен терен*"
+	  },
+	  "plural":{
+		 "la":"chaoses",
+		 "ru":"Хаосы"
+	  },
+	  "text":{
+		 "en":"Distinctive area of broken terrain",
+		 "ru":"Характерный район разрушенного рельефа",
+		 "bg":"Характерен район с разрушен релеф"
+	  }
+   },
+   "CM":{
+	  "singular":{
+		 "la":"Chasma",
+		 "ru":"Каньон",
+		 "en":"Canyon",
+		 "bg":"каньон"
+	  },
+	  "plural":{
+		 "la":"chasmata",
+		 "ru":"Каньоны"
+	  },
+	  "text":{
+		 "en":"A deep, elongated, steep-sided depression",
+		 "ru":"Глубокая крутосклонная линейная депрессия",
+		 "bg":"Дълбока линейна депресия със стръмни склонове"
+	  }
+   },
+   "CO":{
+	  "singular":{
+		 "la":"Collis",
+		 "ru":"Холм",
+		 "en":"Hill",
+		 "bg":"хълм"
+	  },
+	  "plural":{
+		 "la":"colles",
+		 "ru":"Холмы"
+	  },
+	  "text":{
+		 "en":"Small hills or knobs",
+		 "ru":"Небольшая округлая возвышенность",
+		 "bg":""
+	  }
+   },
+   "CR":{
+	  "singular":{
+		 "la":"Corona",
+		 "ru":"Корона"
+	  },
+	  "plural":{
+		 "la":"coronae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Ovoid-shaped feature",
+		 "ru":""
+	  }
+   },
+   "AA":{
+	  "singular":{
+		 "la":"Crater",
+		 "ru":"Кратер"
+	  },
+	  "plural":{
+		 "la":"craters",
+		 "ru":"Кратеры"
+	  },
+	  "text":{
+		 "en":"A circular depression",
+		 "ru":""
+	  }
+   },
+   "DO":{
+	  "singular":{
+		 "la":"Dorsum",
+		 "ru":"Гряда",
+		 "en":"Ridge",
+		 "bg":"хребет"
+	  },
+	  "plural":{
+		 "la":"dorsa",
+		 "ru":"Гряды"
+	  },
+	  "text":{
+		 "en":"Ridge",
+		 "ru":"Линейная возвышенность неправильной формы",
+		 "bg":"Линейно възвишение с неправилна в хоризонтален план форма"
+	  }
+   },
+   "ER":{
+	  "singular":{
+		 "la":"Eruptive center",
+		 "ru":""
+	  },
+	  "plural":{
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Active volcanic centers on Io",
+		 "ru":"Активные вулканические центры на Ио"
+	  }
+   },
+   "FA":{
+	  "singular":{
+		 "la":"Facula",
+		 "ru":"Факула"
+	  },
+	  "plural":{
+		 "la":"faculae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Bright spot",
+		 "ru":""
+	  }
+   },
+   "FR":{
+	  "singular":{
+		 "la":"Farrum",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"farra",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Pancake-like structure, or a row of such structures",
+		 "ru":""
+	  }
+   },
+   "FE":{
+	  "singular":{
+		 "la":"Flexus",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"flexūs",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"A very low curvilinear ridge with a scalloped pattern",
+		 "ru":""
+	  }
+   },
+   "FL":{
+	  "singular":{
+		 "la":"Fluctus",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"fluctūs",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Flow terrain",
+		 "ru":""
+	  }
+   },
+   "FM":{
+	  "singular":{
+		 "la":"Flumen",
+		 "ru":"Река"
+	  },
+	  "plural":{
+		 "la":"flumina",
+		 "ru":"Реки"
+	  },
+	  "text":{
+		 "en":"Channel on Titan that might carry liquid",
+		 "ru":""
+	  }
+   },
+   "FO":{
+	  "singular":{
+		 "la":"Fossa",
+		 "ru":"Борозда",
+		 "en":"Trough",
+		 "bg":"бразда"
+	  },
+	  "plural":{
+		 "la":"fossae",
+		 "ru":"Борозды"
+	  },
+	  "text":{
+		 "en":"Long, narrow depression",
+		 "ru":"Длинная узкая неглубокая линейная депрессия",
+		 "bg":"Дълга, тясна, недълбока депресия. Обикновено са разположени на групи. Могат да бъдат праволинейни или извити (но не криволичещи)"
+	  }
+   },
+   "FT":{
+	  "singular":{
+		 "la":"Fretum",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"freta",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Strait, a narrow passage of liquid connecting two larger areas of liquid",
+		 "ru":""
+	  }
+   },
+   "IN":{
+	  "singular":{
+		 "la":"Insula",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"insulae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Island(islands), an isolated land area(or group of such areas)surrounded by, or nearly surrounded by, a liquid area sea or lake)",
+		 "ru":""
+	  }
+   },
+   "LA":{
+	  "singular":{
+		 "la":"Labes",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"labēs",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Landslide",
+		 "ru":""
+	  }
+   },
+   "LB":{
+	  "singular":{
+		 "la":"Labyrinthus",
+		 "ru":"Лабиринт",
+		 "en":"Intersecting troughs",
+		 "bg":"лабиринт"
+	  },
+	  "plural":{
+		 "la":"labyrinthi",
+		 "ru":"Лабиринты"
+	  },
+	  "text":{
+		 "en":"Complex of intersecting valleys or ridges.",
+		 "ru":"Комплекс пересекающихся долин (каньонов)",
+		 "bg":"Комплекс от пресичащи се долини (каньони)"
+	  }
+   },
+   "LU":{
+	  "singular":{
+		 "la":"Lacuna",
+		 "ru":"Лакуна"
+	  },
+	  "plural":{
+		 "la":"lacunae",
+		 "ru":"Лакуны"
+	  },
+	  "text":{
+		 "en":"Irregularly shaped depression on Titan having the appearance of a dry lake bed",
+		 "ru":""
+	  }
+   },
+   "LC":{
+	  "singular":{
+		 "la":"Lacus",
+		 "ru":"Озеро"
+	  },
+	  "plural":{
+		 "la":"lacūs",
+		 "ru":"Озёра"
+	  },
+	  "text":{
+		 "en":"/Lake/ or small plain; on Titan, a /lake/ or small, dark plain with discrete, sharp boundaries",
+		 "ru":""
+	  }
+   },
+   "LF":{
+	  "singular":{
+		 "en":"Landing site name",
+		 "ru":"Место посадки"
+	  },
+	  "plural":{
+		 "ru":"Места посадки"
+	  },
+	  "text":{
+		 "en":"Lunar features at or near Apollo landing sites",
+		 "ru":""
+	  }
+   },
+   "LG":{
+	  "singular":{
+		 "en":"Large ringed feature",
+		 "ru":"Большие кольцевые элементы"
+	  },
+	  "plural":{
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Cryptic ringed features",
+		 "ru":""
+	  }
+   },
+   "LE":{
+	  "singular":{
+		 "la":"Lenticula",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"lenticulae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Small dark spots on Europa",
+		 "ru":""
+	  }
+   },
+   "LI":{
+	  "singular":{
+		 "la":"Linea",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"lineae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"A dark or bright elongate marking, may be curved or straight",
+		 "ru":""
+	  }
+   },
+   "LN":{
+	  "singular":{
+		 "la":"Lingula",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"lingulae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Extension of plateau having rounded lobate or tongue-like boundaries",
+		 "ru":""
+	  }
+   },
+   "MA":{
+	  "singular":{
+		 "la":"Macula",
+		 "ru":"Макула"
+	  },
+	  "plural":{
+		 "la":"maculae",
+		 "ru":"Макулы"
+	  },
+	  "text":{
+		 "en":"Dark spot, may be irregular",
+		 "ru":""
+	  }
+   },
+   "ME":{
+	  "singular":{
+		 "la":"Mare",
+		 "ru":"Море"
+	  },
+	  "plural":{
+		 "la":"maria",
+		 "ru":"Моря"
+	  },
+	  "text":{
+		 "en":"“Sea”; on the Moon, low albedo, relatively smooth plain, generally of large extent; on Mars, dark albedo areas of no known geological significance; on Titan, large expanses of dark materials thought to be liquid hydrocarbons",
+		 "ru":""
+	  }
+   },
+   "MN":{
+	  "singular":{
+		 "la":"Mensa",
+		 "ru":"Столовая гора",
+		 "en1":"Table mountain",
+		 "bg":"плато"
+	  },
+	  "plural":{
+		 "la":"mensae",
+		 "ru":"Столовые горы"
+	  },
+	  "text":{
+		 "en":"A flat-topped prominence with cliff-like edges",
+		 "ru":"Плосковершинные возвышенности с обрывистыми краями",
+		 "bg":"Плосковърхи възвишения с отсечени краища"
+	  }
+   },
+   "MO":{
+	  "singular":{
+		 "la":"Mons",
+		 "ru":"Крупная возвышенность рельефа или цепь возвышенностей",
+		 "en":"Mountain",
+		 "ru1":"Гора",
+		 "bg":"планина"
+	  },
+	  "plural":{
+		 "la":"montes",
+		 "ru":"Горы"
+	  },
+	  "text":{
+		 "en":"Mountain",
+		 "ru":"Гора",
+		 "bg":"Голям извисен релеф (Mons) или верига от възвишения (Montes)"
+	  }
+   },
+   "OC":{
+	  "singular":{
+		 "la":"Oceanus",
+		 "ru":"Океан"
+	  },
+	  "plural":{
+		 "la":"oceani",
+		 "ru":"Океаны"
+	  },
+	  "text":{
+		 "en":"A very large dark area on the moon",
+		 "ru":""
+	  }
+   },
+   "PA":{
+	  "singular":{
+		 "la":"Palus",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"paludes",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Swamp; small plain",
+		 "ru":""
+	  }
+   },
+   "PE":{
+	  "singular":{
+		 "la":"Patera",
+		 "ru":"Патера",
+		 "en1":"Caldera",
+		 "bg":"калдера"
+	  },
+	  "plural":{
+		 "la":"paterae",
+		 "ru":"Патеры"
+	  },
+	  "text":{
+		 "en":"An irregular crater, or a complex one with scalloped edges",
+		 "ru":"Кратер неправильной формы или сложный кратер с фестончатыми краями",
+		 "bg":"Кратер с неправилна форма или сложен кратер с надиплени краища"
+	  }
+   },
+   "PL":{
+	  "singular":{
+		 "la":"Planitia",
+		 "ru":"Равнина",
+		 "en":"Plains, basin",	 
+		 "bg":"равнина"
+	  },
+	  "plural":{
+		 "la":"planitiae",
+		 "ru":"Равнины"
+	  },
+	  "text":{
+		 "en":"Low plain",
+		 "ru":"Ровная низменная область",
+		 "bg":"Равна ниско разположена област"
+	  }
+   },
+   "PM":{
+	  "singular":{
+		 "la":"Planum",
+		 "ru":"Плато",
+		 "en1":"Highland plain",
+		 "bg":"планинска равнина"
+	  },
+	  "plural":{
+		 "la":"plana",
+		 "ru":"Плато"
+	  },
+	  "text":{
+		 "en":"Plateau or high plain",
+		 "ru":"Ровная возвышенная область",
+		 "bg":"Равна високо разположена област"
+	  }
+   },
+   "PU":{
+	  "singular":{
+		 "la":"Plume",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"plumes",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Cryo-volcanic features on Triton",
+		 "ru":"Криовулканические элементы на Тритоне"
+	  }
+   },
+   "PR":{
+	  "singular":{
+		 "la":"Promontorium",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"promontoria",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Cape; headland promontoria",
+		 "ru":""
+	  }
+   },
+   "RE":{
+	  "singular":{
+		 "la":"Regio",
+		 "ru":"Регион"
+	  },
+	  "plural":{
+		 "la":"regiones",
+		 "ru":"Регионы"
+	  },
+	  "text":{
+		 "en":"A large area marked by reflectivity or color distinctions from adjacent areas, or a broad geographic region",
+		 "ru":""
+	  }
+   },
+   "RT":{
+	  "singular":{
+		 "la":"Reticulum",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"reticula",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"reticular(netlike)pattern on Venus",
+		 "ru":""
+	  }
+   },
+   "RI":{
+	  "singular":{
+		 "la":"Rima",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"rimae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Fissure",
+		 "ru":""
+	  }
+   },
+   "RU":{
+	  "singular":{
+		 "la":"Rupes",
+		 "ru":"Уступ",
+		 "en1":"Cliff",
+		 "bg":"канара, скала*"
+	  },
+	  "plural":{
+		 "la":"rupēs",
+		 "ru":"Уступы"
+	  },
+	  "text":{
+		 "en":"Scarp",
+		 "ru":"Уступо- или обрывообразная форма",
+		 "bg":"Стъпаловидна форма или форма с отсечени стени"
+	  }
+   },
+   "SF":{
+	  "singular":{
+		 "en":"Satellite Feature",
+		 "ru":"Спутниковые элементы"
+	  },
+	  "plural":{
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"A feature that shares the name of an associated feature. For example, on the Moon the craters referred to as /Lettered Craters/ are classified in the gazetteer as /Satellite Features./",
+		 "ru":""
+	  }
+   },
+   "SC":{
+	  "singular":{
+		 "la":"Scopulus",
+		 "ru":"Ступень",
+		 "en1":"Wall",
+		 "bg":"стена"
+	  },
+	  "plural":{
+		 "la":"scopuli",
+		 "ru":"Ступени"
+	  },
+	  "text":{
+		 "en":"Lobate or irregular scarp",
+		 "ru":"Сложный уступ фестончатой или очень нерегулярной формы",
+		 "bg":"Сложно стъпаловидно образувание с надиплена или много неправилна в хоризонтален план форма"
+	  }
+   },
+   "SE":{
+	  "singular":{
+		 "la":"Serpens",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"serpentes",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Sinuous feature with segments of positive and negative relief along its length",
+		 "ru":""
+	  }
+   },
+   "SI":{
+	  "singular":{
+		 "la":"Sinus",
+		 "ru":"Изгиб"
+	  },
+	  "plural":{
+		 "la":"sinūs",
+		 "ru":"Изгибы"
+	  },
+	  "text":{
+		 "en":"Bay; small plain; on Titan, bays within seas or lakes of liquid hydrocarbons",
+		 "ru":""
+	  }
+   },
+   "SU":{
+	  "singular":{
+		 "la":"Sulcus",		 
+		 "en":"Furrow",
+		 "ru":"Рытвина",
+		 "bg":"улей"
+	  },
+	  "plural":{
+		 "la":"sulci",
+		 "ru":"Рытвины"
+	  },
+	  "text":{
+		 "en":"Subparallel furrows and ridges",
+		 "ru":"Сложный район субпараллельных борозд и гряд (напоминающий свежевспаханное поле)",
+		 "bg":"Сложен район със субпаралелни бразди и хребети"
+	  }
+   },
+   "TA":{
+	  "singular":{
+		 "la":"Terra",
+		 "ru":"Земля",
+		 "en":"Highland",
+		 "bg":"земя"
+	  },
+	  "plural":{
+		 "la":"terrae",
+		 "ru":"Земли"
+	  },
+	  "text":{
+		 "en":"Extensive land mass",
+		 "ru":"Область с пересечённым рельефом, обычно обширная возвышенность",
+		 "bg":"Възвишение с пресечен релеф"
+	  }
+   },
+   "TE":{
+	  "singular":{
+		 "la":"Tessera",
+		 "ru":""
+	  },
+	  "plural":{
+		 "la":"tesserae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"Tile-like, polygonal terrain",
+		 "ru":""
+	  }
+   },
+   "TH":{
+	  "singular":{
+		 "la":"Tholus",
+		 "ru":"Купол",
+		 "en":"Cone",
+		 "bg":"куполно"
+	  },
+	  "plural":{
+		 "la":"tholi",
+		 "ru":"Купола"
+	  },
+	  "text":{
+		 "en":"Small domical mountain or hill",
+		 "ru":"Отдельная небольшая куполовидная гора или холм",
+		 "bg":"Отделна неголяма куполовидна планина или хълм"
+	  }
+   },
+   "UN":{
+	  "singular":{
+		 "la":"Unda",
+		 "ru":"Дюна",
+		 "en":"Dune",
+		 "bg":"дюнa"
+	  },
+	  "plural":{
+		 "la":"undae",
+		 "ru":"Дюны"
+	  },
+	  "text":{
+		 "en":"Dunes",
+		 "ru":"",
+		 "bg":""
+	  }
+   },
+   "VA":{
+	  "singular":{
+		 "la":"Vallis",
+		 "ru":"Долина",
+		 "en":"Valley",
+		 "bg":"долина"
+	  },
+	  "plural":{
+		 "la":"valles",
+		 "ru":"Долины"
+	  },
+	  "text":{
+		 "en":"Valley",
+		 "ru":"Извилистая ложбина, часто имеет притоки",
+		 "bg":"Криволичеща падина, често с притоци"
+	  }
+   },
+   "VS":{
+	  "singular":{
+		 "la":"Vastitas",
+		 "ru":"Великая равнина",
+		 "en":"Plain",
+		 "bg":"равнина"
+	  },
+	  "plural":{
+		 "la":"vastitates",
+		 "ru":"Великие равнины"
+	  },
+	  "text":{
+		 "en":"Extensive plain",
+		 "ru":"Обширная по площади равнина",
+		 "bg":"Обширна по площ равнина"
+	  }
+   },
+   "VI":{
+	  "singular":{
+		 "la":"Virga"
+	  },
+	  "plural":{
+		 "la":"virgae",
+		 "ru":""
+	  },
+	  "text":{
+		 "en":"A streak or stripe of colo"
+	  }
+   }
+}
