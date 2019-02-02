@@ -37,7 +37,7 @@
 	  },
 	  "text":{
 		 "en":"Radial-patterned features on Venus",
-		 "ru":""
+		 "ru":"Лучевидные образования на Венере"
 	  }
    },
    "CA":{
@@ -236,7 +236,7 @@
 	  },
 	  "text":{
 		 "en":"Flow terrain",
-		 "ru":""
+		 "ru":"Потоки в почве"
 	  }
    },
    "FM":{
@@ -250,7 +250,7 @@
 	  },
 	  "text":{
 		 "en":"Channel on Titan that might carry liquid",
-		 "ru":""
+		 "ru":"Каналы на Титане, заполненные жидкостью"
 	  }
    },
    "FO":{
@@ -457,7 +457,7 @@
 	  "singular":{
 		 "la":"Mensa",
 		 "ru":"Столовая гора",
-		 "en1":"Table mountain",
+		 "en":"Table mountain",
 		 "bg":"плато"
 	  },
 	  "plural":{
@@ -520,7 +520,7 @@
 	  "singular":{
 		 "la":"Patera",
 		 "ru":"Патера",
-		 "en1":"Caldera",
+		 "en":"Caldera",
 		 "bg":"калдера"
 	  },
 	  "plural":{
@@ -554,7 +554,7 @@
 	  "singular":{
 		 "la":"Planum",
 		 "ru":"Плато",
-		 "en1":"Highland plain",
+		 "en":"Highland plain",
 		 "bg":"планинска равнина"
 	  },
 	  "plural":{
@@ -620,7 +620,7 @@
 	  },
 	  "text":{
 		 "en":"reticular(netlike)pattern on Venus",
-		 "ru":""
+		 "ru":"Ретикулярные образования на Венере"
 	  }
    },
    "RI":{
@@ -641,7 +641,7 @@
 	  "singular":{
 		 "la":"Rupes",
 		 "ru":"Уступ",
-		 "en1":"Cliff",
+		 "en":"Cliff",
 		 "bg":"канара, скала*"
 	  },
 	  "plural":{
@@ -671,7 +671,7 @@
 	  "singular":{
 		 "la":"Scopulus",
 		 "ru":"Ступень",
-		 "en1":"Wall",
+		 "en":"Wall",
 		 "bg":"стена"
 	  },
 	  "plural":{
