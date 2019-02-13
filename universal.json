@@ -1,0 +1,56 @@
+﻿{
+    "systeme" :
+    {
+        "♃" : "JUPITER" ,
+        "♂" : "MARS",
+        "☿" : "MERCURY",
+        "♆" : "NEPTUNE",
+        "♄" : "SATURN",
+        "⛢" : "URANUS",
+        "♀" : "VENUS",
+        "♇" : "PLUTO"
+    },
+    "element" : {
+        "ADRASTEA" : "♃",
+        "AITNE" : "♃",
+        "AMALTHEA" : "♃",
+        "ARIEL" : "⛢",
+        "CALLISTO" : "♃",
+        "CHARON" : "♇",
+        "DEIMOS" : "♂",
+        "DIONE" : "♄",
+        "ENCELADUS" : "♄",
+        "EPIMETHEUS" : "♄",
+        "EUROPA" : "♃",
+        "GANYMEDE" : "♃",
+        "HYPERION" : "♄",
+        "IAPETUS" : "♄",
+        "IO" : "♃",
+        "JANUS " : "♄",
+        "MIMAS" : "♄",
+        "MIRANDA" : "⛢",
+        "MOON" : "⊕",
+        "OBERON" : "⛢",
+        "PHOBOS" : "♂",
+        "PHOEBE" : "♄",
+        "PROTEUS" : "♆",
+        "PUCK" : "⛢",
+        "RHEA" : "♄",
+        "TETHYS" : "♄",
+        "THEBE" : "♃",
+        "TITAN" : "♄",
+        "TITANIA" : "⛢",
+        "TRITON" : "♆",
+        "UMBRIEL" : "⛢"
+    },
+    "asteroid": [
+        "⚳,CERES",
+        "DACTYL",
+        "EROS",
+        "GASPRA",
+        "IDA",
+        "ITOKAWA",
+        "MATHILDE",
+        "⚶,VESTA"
+    ]
+}
