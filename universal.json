@@ -3,35 +3,43 @@
     {
         "☿" : {
             "uai": "MERCURY",
-            "wikidata": "Q308"
+            "wikidata": "Q308",
+            "wms" : 1
         },
         "♀" : {
             "uai":  "VENUS",
-            "wikidata": "Q313"
+            "wikidata": "Q313",
+            "wms" : 1
         },        
         "♂" : {
             "uai": "MARS",
-            "wikidata": "Q111"
+            "wikidata": "Q111",
+            "wms" : 1
         },
         "♃" : {
             "uai": "JUPITER",
-            "wikidata": "Q319"
+            "wikidata": "Q319",
+            "wms" : 0
         },
         "♄" : {
             "uai": "SATURN",
-            "wikidata": "Q193"
+            "wikidata": "Q193",
+            "wms" : 0
         },
         "⛢" : {
             "uai":  "URANUS",
-            "wikidata": "Q324"
+            "wikidata": "Q324",
+            "wms" : 0
         },
         "♆" : {
             "uai": "NEPTUNE",
-            "wikidata": "Q332"
+            "wikidata": "Q332",
+            "wms" : 0
         },        
         "♇" :{
             "uai":  "PLUTO",
-            "wikidata": "Q339"
+            "wikidata": "Q339",
+            "wms" : 1
         }
     },
     "element" : {
