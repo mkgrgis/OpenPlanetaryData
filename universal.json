@@ -2,36 +2,36 @@
     "systeme" :
     {
         "☿" : {
-            uai: "MERCURY",
-            wikidata: "Q308"
+            "uai": "MERCURY",
+            "wikidata": "Q308"
         },
         "♀" : {
-            uai:  "VENUS",
-            wikidata: "Q313"
+            "uai":  "VENUS",
+            "wikidata": "Q313"
         },        
         "♂" : {
-            uai: "MARS",
-            wikidata: "Q111"
+            "uai": "MARS",
+            "wikidata": "Q111"
         },
         "♃" : {
-            uai: "JUPITER",
-            wikidata: "Q339"
+            "uai": "JUPITER",
+            "wikidata": "Q339"
         },
         "♄" : {
-            uai: "SATURN",
-            wikidata: "Q193"
+            "uai": "SATURN",
+            "wikidata": "Q193"
         },
         "⛢" : {
-            uai:  "URANUS",
-            wikidata: "Q324"
+            "uai":  "URANUS",
+            "wikidata": "Q324"
         },
         "♆" : {
-            uai: "NEPTUNE",
-            wikidata: "Q332"
+            "uai": "NEPTUNE",
+            "wikidata": "Q332"
         },        
         "♇" :{
-            uai:  "PLUTO",
-            wikidata: "Q339"
+            "uai":  "PLUTO",
+            "wikidata": "Q339"
         }
     },
     "element" : {
