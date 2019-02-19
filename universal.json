@@ -1,14 +1,38 @@
 ﻿{
     "systeme" :
     {
-        "♃" : "JUPITER" ,
-        "♂" : "MARS",
-        "☿" : "MERCURY",
-        "♆" : "NEPTUNE",
-        "♄" : "SATURN",
-        "⛢" : "URANUS",
-        "♀" : "VENUS",
-        "♇" : "PLUTO"
+        "☿" : {
+            uai: "MERCURY",
+            wikidata: "Q308"
+        },
+        "♀" : {
+            uai:  "VENUS",
+            wikidata: "Q313"
+        },        
+        "♂" : {
+            uai: "MARS",
+            wikidata: "Q111"
+        },
+        "♃" : {
+            uai: "JUPITER",
+            wikidata: "Q339"
+        },
+        "♄" : {
+            uai: "SATURN",
+            wikidata: "Q193"
+        },
+        "⛢" : {
+            uai:  "URANUS",
+            wikidata: "Q324"
+        },
+        "♆" : {
+            uai: "NEPTUNE",
+            wikidata: "Q332"
+        },        
+        "♇" :{
+            uai:  "PLUTO",
+            wikidata: "Q339"
+        }
     },
     "element" : {
         "ADRASTEA" : "♃",
