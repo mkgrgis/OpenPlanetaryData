@@ -20,7 +20,7 @@ done;
 # data for planetes
 for ((i=0; i < $n; i++)) do
   PlnInd=$(echo "$dir" | jq .[$i] | sed 's,",,g');
-  planet=$(cat "$f"| jq ".systeme[\"$PlnInd\"].uai" | sed 's,",,g');
+  planet=$(cat "$f"| jq ".systeme[\"$PlnInd\"]" | sed 's,",,g');
   echo "$PlnInd $planet";
   wget -O - "$usgsb/${planet}_nomenclature.zip" 2> /dev/null > "$d/$PlnInd/${planet}_nomenclature.zip";
 done;
